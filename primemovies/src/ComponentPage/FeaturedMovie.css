@@ -1,0 +1,18 @@
+.Fmv {
+  display: flex;
+  flex-direction: row;
+  background: #0f171e !important;
+}
+
+.Fm {
+  font-size: 25px !important;
+  font-family: open sans, sans-serif !important;
+  background: #0f171e !important;
+  color: white !important;
+}
+
+.Fmv img {
+  width: 25% !important;
+  height: 250px !important;
+  margin: 20px 5px !important;
+}

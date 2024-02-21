@@ -1,0 +1,16 @@
+.DetailsTab {
+  display: flex;
+  flex-direction: inherit;
+  background: #0f171e;
+}
+
+.DetailsTab img {
+  width: 30% !important;
+  height: 80vh !important;
+  margin: 0px 20px !important;
+}
+
+.Detailsdesc {
+  color: white;
+  margin: 140px 20px !important;
+}

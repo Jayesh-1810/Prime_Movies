@@ -1,0 +1,7 @@
+.navbarBg {
+  height: 85px !important;
+  background: #0f171e;
+}
+.navbarBg a:hover {
+  color: grey !important;
+}

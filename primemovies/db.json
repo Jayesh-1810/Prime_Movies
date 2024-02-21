@@ -1,0 +1,159 @@
+{
+  "movieDetail": [
+    {
+      "id": 1,
+      "image": "/Image/MoviesDetailsPage/Black Widow/Black Widow.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/Black Widow/Black Widow2.jpg",
+      "description":"Title: Black Widow \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 2,
+      "image": "/Image/MoviesDetailsPage/FatherHood/Fatherhood.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/FatherHood/Fatherhood1.jfif",
+      "description":"Title: FatherHood\n\nMike O'Donnell (Matthew Perry) was a high-school basketball star with a bright future, but he threw it all away to marry his girlfriend and raise their child. Almost 20 years later, Mike's marriage has failed, his kids think he's a loser, and his job is going nowhere. He gets a chance to correct the mistakes of his past and change his life when he is miraculously transformed into a teenager (Zac Efron), but in trying to fix his past, Mike may be jeopardizing his present and future.\nRent : $1.99\nBuy : $3.99"
+    },
+    {
+      "id": 3,
+      "image": "/Image/MoviesDetailsPage/Good on paper/Good on paper.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/Good on paper/Good on paper1.jpg",
+      "description":"Title: Good on paper\n\nOn the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment is poisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora. Jake Sully (Sam Worthington), a paralyzed former Marine, becomes mobile again through one such Avatar and falls in love with a Na'vi woman (Zoe Saldana). As a bond with her grows, he is drawn into a battle for the survival of her world.\nRent: $3.99\nBuy: $5.99"
+    },
+    {
+      "id": 4,
+      "image": "/Image/MoviesDetailsPage/Infinite/Infinite.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/Infinite/Infinite1.jpg",
+      "description":"Title:Infinite \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 5,
+      "image": "/Image/MoviesDetailsPage/InTheHeights/InTheHeights.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/InTheHeights/InTheHeights2.jpg",
+      "description":"Title: In The Heights\n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 6,
+      "image": "/Image/MoviesDetailsPage/StillWater/StillWater.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/StillWater/StillWater1.jpg",
+      "description":"Title:Still Water \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 7,
+      "image": "/Image/MoviesDetailsPage/The Forever Purge/The Forever Purge.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/The Forever Purge/The Forever Purge1.jpg",
+      "description":"Title:The Forever Purge \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 8,
+      "image": "/Image/MoviesDetailsPage/The King's Man/The King's Man.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/The King's Man/The King's Man2.jpg",
+      "description":"Title: The King's Man \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 9,
+      "image": "/Image/MoviesDetailsPage/TheBabyBoss/TheBabyBoss.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/TheBabyBoss/TheBabyBoss2.jpg",
+      "description":"Title:The Baby Boss \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 10,
+      "image": "/Image/MoviesDetailsPage/TheTomorrowWar/TheTomorrowWar.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/TheTomorrowWar/TheTomorrowWar2.jpg",
+      "description":"Title: The Tomorrow War\n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    }
+    
+  ],
+  "tvshowDetail": [
+    {
+      "id": 1,
+      "image": "/Image/TVshowDetailsPage/BloodLands/Bloodland.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/BloodLands/Bloodland1.jpg",
+      "description":"Title: BloodLands \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 2,
+      "image": "/Image/TVshowDetailsPage/Grey's Anatomy/Grey's Anatomy.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Grey's Anatomy/Grey's Anatomy1.jpg",
+      "description":"Title: Grey's Anatomy\n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 3,
+      "image": "/Image/TVshowDetailsPage/Lisey's story/Lisey's Story.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Lisey's story/Lisey's Story1.png",
+      "description":"Title: Lisey's story \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 4,
+      "image": "/Image/TVshowDetailsPage/Manifest/Manifest.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Manifest/Manifest1.jpg",
+      "description":"Title: Manifest \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 5,
+      "image": "/Image/TVshowDetailsPage/Resident Evil/Resident Evil.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Resident Evil/Resident Evil1.jfif",
+      "description":"Title: Resident Evil \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 6,
+      "image": "/Image/TVshowDetailsPage/Sweet tooth/Sweet Tooth.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Sweet tooth/Sweet Tooth1.jfif",
+      "description":"Title: Sweet Tooth \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 7,
+      "image": "/Image/TVshowDetailsPage/The nevers/The nevers.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/The nevers/The nevers1.jpg",
+      "description":"Title: The nevers \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 8,
+      "image": "/Image/TVshowDetailsPage/Young Royals/YoungRoyals.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Young Royals/YoungRoyals1.jpg",
+      "description":"Title: YoungRoyals \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    }
+  ],
+  "featuredMovie": [
+    {
+      "id": 1,
+      "image": "/Image/FeaturedMovieSection/Fatherhood.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/Image/FeaturedMovieSection/Infinite.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/Image/FeaturedMovieSection/InTheHeights.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/Image/FeaturedMovieSection/StillWater.jfif"
+    },
+    {
+      "id": 5,
+      "image": "/Image/FeaturedMovieSection/The King's Man.jpg"
+    }
+  ],
+  "featuredTvShow": [
+    {
+      "id": 1,
+      "image": "/Image/FeaturedTVshows/Grey's Anatomy.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/Image/FeaturedTVshows/Manifest.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/Image/FeaturedTVshows/Resident Evil.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/Image/FeaturedTVshows/Sweet Tooth.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/Image/FeaturedTVshows/The nevers.jpg"
+    }
+  ]
+}

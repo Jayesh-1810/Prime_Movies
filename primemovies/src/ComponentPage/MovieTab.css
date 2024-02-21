@@ -1,0 +1,18 @@
+.Movie {
+  display: flex;
+  flex-wrap: wrap;
+  background: #0f171e;
+}
+
+.Movie img {
+  border-radius: 5px !important;
+  width: 20% !important;
+  height: 250px !important;
+  margin: 25px !important;
+  transition: transform 0.3s;
+}
+
+.Movie img:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
